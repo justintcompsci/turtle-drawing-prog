@@ -1,0 +1,116 @@
+R
+F 5
+L
+F 3
+R
+R
+D
+F 3
+R
+F 3
+R
+F 3
+U
+F 2
+D
+F 2
+R
+F 3
+R
+F 3
+R
+F 3
+R
+U
+F 5
+R
+D
+F 3
+R
+R
+F 3
+R
+F 3
+R
+F 3
+R
+R
+F 3
+R
+F 3
+R 
+F 3
+R
+R
+F 3
+R
+U
+F 3
+D
+R
+F 6 
+R
+R
+F 6
+R
+F 3
+R
+F 3
+R
+F 3
+R
+F 3
+R
+U
+F 5
+D
+R
+F 3
+L
+F 3
+L
+F 3
+R
+U
+F 3
+D
+F 6
+R
+R
+F 4
+R
+F 3
+R
+R
+F 8
+R
+R
+F 6
+R
+F 4
+U
+F 2
+D
+F 2
+R
+F 3
+R
+F 3
+R
+F 3
+R
+R
+F 5
+L
+F 3
+U
+F 2
+L
+F 3
+D
+F 2
+R
+F 3
+
+P
+Q
